@@ -11,7 +11,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
     <!-- CSS
-	============================================ -->
+    ============================================ -->
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/plugins/slick.css">
@@ -46,7 +46,7 @@
                             <div class="logo">
                                 <a href="#">
                                         <img src="assets/images/logo/logo-ts.png" class="w-25" />
-                                        <span>Kaizen Group Of Companies.</span>
+                                        <strong>Kaizen</strong>
                                     
                                 </a>
                             </div>
@@ -159,7 +159,7 @@
                             <div class="col-lg-6 col-12">
                                 <div class="content">
                                     <span class="title wow slideFadeInUp" data-wow-duration="1s"
-                                        data-wow-delay="500ms">The Institute Of Finance & Taxation</span>
+                                        data-wow-delay="500ms">Kaizen Group Of Companies.</span>
                                     <h1 class="axil-display-1 wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="800ms">EXPAND YOUR BUSINESS WITH US..</h1>
                                     <!-- <div class="button-group wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="1300ms">
                                         <a class="axil-button btn-large btn-transparent" href="#"><span
@@ -387,7 +387,4 @@
     <script src="assets/js/main.js"></script>
 
 </body>
-
-
-<!-- Mirrored from axilthemes.com/demo/template/keystroke/home-03.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Mar 2021 06:58:00 GMT -->
 </html>
