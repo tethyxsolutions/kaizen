@@ -45,8 +45,8 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-8 header-left">
                             <div class="logo">
                                 <a href="#">
-                                        <img src="assets/images/logo/logo-ts.png" class="w-25" />
-                                        <strong>Kaizen</strong>
+                                        <img src="assets/images/logo/kaizen-logo-bg-trans.png" class="w-25" />
+                                        <!-- <span>Kaizen</span> -->
                                     
                                 </a>
                             </div>
@@ -158,9 +158,9 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-12">
                                 <div class="content">
-                                    <span class="title wow slideFadeInUp" data-wow-duration="1s"
+                                    <span style="color: #f5ac31;" class="title wow slideFadeInUp" data-wow-duration="1s"
                                         data-wow-delay="500ms">Kaizen Group Of Companies.</span>
-                                    <h1 class="axil-display-1 wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="800ms">EXPAND YOUR BUSINESS WITH US..</h1>
+                                    <h1 style="color: #24676b;" class="axil-display-1 wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="800ms">EXPAND YOUR BUSINESS WITH US..</h1>
                                     <!-- <div class="button-group wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="1300ms">
                                         <a class="axil-button btn-large btn-transparent" href="#"><span
                                                 class="button-text">Latest Work On Dribbble</span><span
@@ -387,4 +387,7 @@
     <script src="assets/js/main.js"></script>
 
 </body>
+
+
+<!-- Mirrored from axilthemes.com/demo/template/keystroke/home-03.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Mar 2021 06:58:00 GMT -->
 </html>
