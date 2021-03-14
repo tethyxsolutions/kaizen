@@ -1,9 +1,4 @@
-/*****************************************************************************
 
-	Template Name: Keystroke Creative Agency Bootstrap4 Html5 Template
-	Note: This is style css.
-
-******************************************************************************/
 /**************************************************************
 	
 	STYLESHEET INDEXING
@@ -539,7 +534,8 @@ h1 {
   font-size: 56px;
   line-height: 68px;
 }
-
+.w-40{width: 40%!important;}
+.w-50{width: 50%!important;}
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   h1 {
     font-size: 50px;
@@ -22631,6 +22627,13 @@ body.active-dark-mode .bg_image--2 {
   background-color: #242526;
   position: relative;
   z-index: 2;
+}
+body .theme-gradient{
+	background-image: url(../images/bg-4.jpeg);
+	/*background: linear-gradient(270deg, #FFFFFF 0%, #f7a51d61 24.38%, #0098a345 77.05%, #FFFFFF 100%);*/
+	background-repeat: no-repeat;
+    /*background-position: center;*/
+    /*background-size: cover;*/
 }
 
 body.active-dark-mode .ft-social-share li a {
