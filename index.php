@@ -45,9 +45,9 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-8 header-left">
                             <div class="logo">
                                 <a href="#">
-                                        <img src="assets/images/logo/kaizen-logo-bg-trans.png" class="w-40" />
-                                        <!-- <span>Kaizen</span> -->
-                                    
+                                    <img src="assets/images/logo/kaizen-logo-bg-trans.png" class="w-40" />
+                                    <!-- <span>Kaizen</span> -->
+
                                 </a>
                             </div>
                         </div>
@@ -158,8 +158,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6 col-12">
                                 <div class="content">
-                                    <span style="color: #f5ac31;" class="title wow slideFadeInUp" data-wow-duration="1s"
-                                        data-wow-delay="500ms">Kaizen Group Of Companies.</span>
+                                    <span style="color: #f5ac31;" class="title wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="500ms">Kaizen Group Of Companies.</span>
                                     <h1 style="color: #24676b;" class="axil-display-1 wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="800ms">EXPAND YOUR BUSINESS WITH US..</h1>
                                     <!-- <div class="button-group wow slideFadeInUp" data-wow-duration="1s" data-wow-delay="1300ms">
                                         <a class="axil-button btn-large btn-transparent" href="#"><span
@@ -190,7 +189,7 @@
             <!-- Start Case Study Area -->
             <div class="axil-case-study-area ax-section-gap bg-color-lightest" id="sectionBottom">
                 <div class="container">
-                   <!--  <div class="row">
+                    <!--  <div class="row">
                         <div class="col-lg-12">
                             <div class="section-title text-left" id="trigger1">
                                 <span class="sub-title extra07-color wow" data-splitting>case study</span>
@@ -209,8 +208,8 @@
                                 </div>
                                 <div class="content">
                                     <div class="inner">
-                                        <span style="color: #f7a31c;" class="category wow" data-splitting>Kainzen</span>
-                                        <h4 class="wow title" data-splitting><a href="single-case-study.html">BUSINESS CONSULTANTS</a></h4>
+                                        <span style="color: #f7a31c;" class="category wow" data-splitting>Kaizen</span>
+                                        <h4 class="wow title" data-splitting>BUSINESS CONSULTANTS</h4>
                                     </div>
                                 </div>
                             </div>
@@ -221,14 +220,14 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-12 move-up wow">
                             <div class="axil-case-study">
                                 <div class="thumbnail">
-                                    <a href="#">
+                                    <a href="insitute.html">
                                         <img class="w-100 paralax-image" src="assets/images/portfolio/case-stydy-02.jpg" alt="Axil Case Study Images">
                                     </a>
                                 </div>
                                 <div class="content">
                                     <div class="inner">
-                                        <span style="color: #0199a4;" class="category wow" data-splitting>Kainzen</span>
-                                        <h4 class="wow title" data-splitting><a href="single-case-study.html">THE INSTITUTE OF FINANCE & TAXATION</a></h4>
+                                        <span style="color: #0199a4;" class="category wow" data-splitting>Kaizen</span>
+                                        <h4 class="wow title" data-splitting>THE INSTITUTE OF FINANCE & TAXATION</h4>
                                     </div>
                                 </div>
                             </div>
@@ -259,8 +258,7 @@
 
                                     <div class="axil-address">
                                         <h6 class="title wow" data-splitting>Address</h6>
-                                        <p class="wow" data-splitting>3rd floor, SAAS Tower, NH 66, <br /> Bypass Junction, Meenchanda,
-                                            Kozhikode, Kerala 673018</p>
+                                        <p class="wow" data-splitting>3rd floor, SAAS Tower, NH 66, <br /> Bypass Junction, Meenchanda, Kozhikode, Kerala 673018</p>
                                     </div>
 
                                     <div class="axil-address">
@@ -390,4 +388,5 @@
 
 
 <!-- Mirrored from axilthemes.com/demo/template/keystroke/home-03.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Mar 2021 06:58:00 GMT -->
+
 </html>
