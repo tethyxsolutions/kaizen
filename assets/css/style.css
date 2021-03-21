@@ -10916,7 +10916,11 @@ textarea:-ms-input-placeholder {
 
 
 /* Theme Gradient */
-
+.bg-image-extra1 {
+    background-image: url('../images/logo/kaizen-logo-bg-trans.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .theme-gradient {
     background: -webkit-gradient(linear, left top, left bottom, from(#EAF8FF), to(#F6F6FF));
     background: -webkit-linear-gradient(top, #EAF8FF 0%, #F6F6FF 100%);
@@ -10975,7 +10979,17 @@ textarea:-ms-input-placeholder {
     background: -o-linear-gradient(296.77deg, #D6FFFC 0%, #FAE7E4 100%);
     background: linear-gradient(153.23deg, #D6FFFC 0%, #FAE7E4 100%);
 }
+.theme-gradient-institute{
+    background: -webkit-linear-gradient(153.23deg, #faa62f2e 0%, #2f9bad1f 100%);
+    background: -o-linear-gradient(153.23deg, #faa62f2e 0%, #2f9bad1f 100%);
+    background: linear-gradient(153.23deg, #faa62f2e 0%, #2f9bad1f 100%);
 
+    background-image: url('../images/bg/institute-bg1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
 .bg-primary-color {
     background: #702FFF !important;
 }
