@@ -23127,7 +23127,7 @@ body.active-dark-mode .bg_image--2 {
 }
 
 body .theme-gradient {
-    background-image: url(../images/bg-4.jpeg);
+    background-image: url(../images/bg-3.jpg);
     /*background: linear-gradient(270deg, #FFFFFF 0%, #f7a51d61 24.38%, #0098a345 77.05%, #FFFFFF 100%);*/
     background-repeat: no-repeat;
     /*background-position: center;*/
@@ -23611,3 +23611,36 @@ body.active-dark-mode .portfolio-slider .thumbnail img.light-image {
 body.active-dark-mode .portfolio-slider .thumbnail img.dark-image {
     display: block;
 }
+.serif {
+  font-family: Times, Times New Roman, Georgia, serif;
+}
+
+.sansserif {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: Lucida Console, Courier, monospace;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
+
+.emoji {
+  font-family: emoji;
+}
+
+.math {
+  font-family: math;
+}
+
+.fangsong {
+  font-family: fangsong;
+}
+
+ul.institute-menu li a{color: #702FFF;}
